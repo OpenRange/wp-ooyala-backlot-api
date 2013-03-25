@@ -1,4 +1,8 @@
-wp-ooyala-backlot-api
-=====================
+WP Ooyala Backlot API SDK
+=========================
+The WP Ooyala Backlot API SDK is a WordPress client class for Ooyala's Backlot V2 API.
 
-WP Ooyala Backlot API Wrapper
+Documentation
+=============
+
+Please see http://support.ooyala.com/developers/documentation/concepts/book_api.html for up-to-date documentation.
