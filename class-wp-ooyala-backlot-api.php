@@ -59,7 +59,7 @@ class WP_Ooyala_Backlot_API {
 	 *
 	 * @var string
 	 */
-    public $cache_base_url;
+	public $cache_base_url;
 
 	/**
 	 * Holds the expiration window. This value is added to the current time. It
